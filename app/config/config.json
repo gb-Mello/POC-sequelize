@@ -1,0 +1,29 @@
+{
+    "development": {
+      "username": "sa",
+      "password": "Fastcars1@",
+      "database": "POC",
+      "host": "localhost",
+      "dialectModulePath": "sequelize-msnodesqlv8",
+      "dialect": "mssql",
+      "port": "32775"
+    },
+    "test": {
+      "username": "sa",
+      "password": "Fastcars1@",
+      "database": "POC",
+      "host": "127.0.0.1",
+      "dialectModulePath": "sequelize-msnodesqlv8",
+      "dialect": "mssql",
+      "port": "32775"
+    },
+    "production": {
+      "username": "sa",
+      "password": "Fastcars1@",
+      "database": "POC",
+      "host": "127.0.0.1",
+      "dialectModulePath": "sequelize-msnodesqlv8",
+      "dialect": "mssql",
+      "port": "32775"
+    }
+  }
